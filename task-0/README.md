@@ -2,5 +2,5 @@
 
 https://gitcoin.co/issue/nervosnetwork/grants/1/100026176
 
-1. ![](./node.png)
-2. ![](./indexer.png)
+1. CKB Node ![](./node.png)
+2. CKB Indexer ![](./indexer.png)
